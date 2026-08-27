@@ -15,10 +15,10 @@ public class Main {
     // JVM entry point.
     public static void main(String[] args) {
 
-        // Creating an ArrayList for storing genres of films.
+        // Creating an ArrayList for storing numbers.
         List<Integer> myList = new ArrayList<>();
 
-        // Adding genres to myList.
+        // Adding numbers to myList.
         myList.add(2);
         myList.add(3);
         myList.add(4);
